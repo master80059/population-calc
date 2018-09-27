@@ -1,0 +1,59 @@
+4
+5
+10
+
+day 1 	 organisms 4
+day 2 	 organisms 4.2
+day 3 	 organisms 4.41
+day 4 	 organisms 4.6305000000000005
+day 5 	 organisms 4.862025000000001
+day 6 	 organisms 5.105126250000001
+day 7 	 organisms 5.360382562500002
+day 8 	 organisms 5.628401690625002
+day 9 	 organisms 5.909821775156252
+day 10 	 organisms 6.205312863914065
+
+10
+4
+5
+
+day 1 	 organisms 10
+day 2 	 organisms 10.4
+day 3 	 organisms 10.816
+day 4 	 organisms 11.24864
+day 5 	 organisms 11.6985856
+day 6 	 organisms 12.166529023999999
+day 7 	 organisms 12.65319018496
+day 8 	 organisms 13.159317792358399
+day 9 	 organisms 13.685690504052735
+day 10 	 organisms 14.233118124214844
+
+1
+50
+25
+
+day 1 	 organisms 1
+day 2 	 organisms 1.5
+day 3 	 organisms 2.25
+day 4 	 organisms 3.375
+day 5 	 organisms 5.0625
+day 6 	 organisms 7.59375
+day 7 	 organisms 11.390625
+day 8 	 organisms 17.0859375
+day 9 	 organisms 25.62890625
+day 10 	 organisms 38.443359375
+day 11 	 organisms 57.6650390625
+day 12 	 organisms 86.49755859375
+day 13 	 organisms 129.746337890625
+day 14 	 organisms 194.6195068359375
+day 15 	 organisms 291.92926025390625
+day 16 	 organisms 437.8938903808594
+day 17 	 organisms 656.8408355712891
+day 18 	 organisms 985.2612533569336
+day 19 	 organisms 1477.8918800354004
+day 20 	 organisms 2216.8378200531006
+day 21 	 organisms 3325.256730079651
+day 22 	 organisms 4987.885095119476
+day 23 	 organisms 7481.8276426792145
+day 24 	 organisms 11222.741464018822
+day 25 	 organisms 16834.112196028233
